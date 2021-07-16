@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "LBF @ IJS"
 title_separator          : "-"
-name                     : &name "Laboratory of biophysics"
-description              : &description "Laboratory of biophysics at Jožef Stefan Institute"
+name                     : &name "Laboratory of Biophysics"
+description              : &description "Laboratory of Biophysics at Jožef Stefan Institute"
 url                      : https://uiztok.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uiztok/uiztok.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "LBF"
-  avatar           : "LBFlogo1.png"
+  name             : "Laboratory of Biophysics"
+  avatar           : "LBFlogo_white.png"
   bio              : "Exploring molecular world with biophysics and microscopes"
   location         : "Ljubljana, Slovenia"
   employer         :
