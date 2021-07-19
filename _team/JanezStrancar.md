@@ -2,7 +2,7 @@
 title: "Janez Štrancar"
 collection: team
 header:
-  teaser: JanezStrancar.jpg
+  teaser: team_JanezStrancar.jpg
 tags: PI
 tagline: Group Leader LBF@IJS
 

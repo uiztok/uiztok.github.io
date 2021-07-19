@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Laboratory of Biophysics at Jožef Stefan Institute, Ljubljana, Slovenia"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -12,12 +11,13 @@ redirect_from:
 ![Gateway](/images/img_gateway.jpg)
 
 
+Welcome!
+========
+Join us to understand the molecular world and create advanced concepts in medical diagnostics, therapy, and biotechnology.  
+
 Our vision
 ----------
 By an indenpendent way of thinking beyond established paradigms we unravel new mechanisms of interactions between materials and living biological systems. Employing creative problem solving we develop new expertise-driven solutions. 
- 
-Join us to understand the molecular world and create advanced concepts in medical diagnostics, therapy, and biotechnology.
-
 
 Our capacities
 --------------
