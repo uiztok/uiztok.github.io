@@ -9,14 +9,14 @@ main:
   - title: "Applications"
     url: /applications/
     
-  - title: "Publications"
-    url: /publications/
-
   - title: "Team"
     url: /team/    
 
   - title: "Resources"
     url: /resources/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    

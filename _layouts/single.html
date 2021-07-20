@@ -37,6 +37,7 @@ layout: default
 
         {% if page.authors %}
           <i>{{ page.authors }}</i>
+          <br>
         {% endif %}
 
         {% if page.collection == 'team' %}
@@ -65,7 +66,7 @@ layout: default
               <br><a href="mailto:{{ page.email }}" style="text-decoration: none"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
             {% endif %}
             {% if page.twitter %}
-              <br><a href="https://twitter.com/{{ page.twitter }}" style="text-decoration: none"><i class="fa fa-fw fa-twitter-square" aria-hidden="false"></i> Twitter</a></li>
+            <br><a href="https://twitter.com/{{ page.twitter }}" style="text-decoration: none"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
             {% endif %}
             {% if page.googlescholar %}
               <br><a href="{{ page.googlescholar }}" style="text-decoration: none"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
@@ -78,17 +79,32 @@ layout: default
         {% endif %}
 
         {% if page.collection == 'news' %}
-        {% if page.header.teaser %}
-         {% if page.gallery %}
-         <p>
-           {% else %}
-          <p><center><img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='max-height: 350px; width: 80%; object-fit: contain;' >
-         <p><justify>
-           {% endif %}
-        {% endif %}
+          {% if page.header.teaser %}
+            {% if page.gallery %}
+            <p>
+              {% else %}
+              <p><center><img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='max-height: 350px; width: 80%; object-fit: contain;' >
+            <p><justify>
+            {% endif %}
+          {% endif %}
         {% endif %}
 
+        
+        {% if page.collection == 'publications' %}
+          <span style="font-size:0.8em; line-height: 0.5;">
+          {% if page.venue and page.doi %}
+            <b>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }} </b>
+          {% endif %}
+          {% if page.doi%}
+            <b>; doi: {{ page.doi }}</b>
+          {% endif %}
+          {% if page.paperurl%}
+            <b> (read more <a href="{{ page.paperurl }}"> here</a>)</b>
+          {% endif %}
+          .</span><br>
+        {% endif %}
 
+        <!-- 
         {% if page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
@@ -101,12 +117,9 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% elsif page.paperurl %}
-          <cite>(see publication in <a href="{{ page.paperurl }}"> Journal</a>
-            {% if page.rgate %}
-            or in <a href="{{ page.rgate }}"> Research Gate</a>
-            {% endif %}
-            ) </cite>
-        {% endif %}
+          <cite>(read more <a href="{{ page.paperurl }}"> here</a>). </cite>
+        {% endif %} 
+      -->
 
         </header>
       {% endunless %}

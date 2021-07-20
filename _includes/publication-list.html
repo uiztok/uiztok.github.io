@@ -1,18 +1,12 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+<h2>Publications </h2>
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-
-{% include base_path %}
+{% if page.googlescholar %}
+  (see all on <a href="{{ page.googlescholar }}"><span style="color:gray">Google Scholar</span></a>).
+{% endif %}
 
 <ul>
 {% for post in site.publications reversed %}
+  {% if post.authors contains page.title %}
 
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
@@ -21,8 +15,8 @@ author_profile: true
     <ul>
     {% assign date = currentdate %}
   {% endif %}
-  
-  {% include archive-single-pub.html %}
+    
+    {% include archive-single-pub.html %}
+  {% endif %}
   {% if forloop.last %}</ul>{% endif %}
-
 {% endfor %}

@@ -210,20 +210,20 @@ defaults:
       layout: single
       author_profile: true
 
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
       share: false
       comments: true
-
-  # _publications
+  
+  # _applications
   - scope:
       path: ""
-      type: publications
+      type: applications
     values:
       layout: single
       author_profile: true
@@ -240,14 +240,46 @@ defaults:
       share: false
       comments: true
 
-  # _talks
+  # _resources
   - scope:
       path: ""
-      type: talks
+      type: resources
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: false
+      comments: true
+
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+
+  # contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+
 
 # Sass/SCSS
 sass:
