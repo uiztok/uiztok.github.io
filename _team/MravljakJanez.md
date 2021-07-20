@@ -12,3 +12,4 @@ tagline: Researcher
 
 Janez ...
 
+{% include publication-list.html %}

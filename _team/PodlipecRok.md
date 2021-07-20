@@ -12,3 +12,4 @@ tagline: Researcher
 
 Rok ...
 
+{% include publication-list.html %}

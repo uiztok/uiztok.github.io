@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome!
 ========
-Join us to understand the molecular world and create advanced concepts in medical diagnostics, therapy, and biotechnology.  
+Join our quest to understand the molecular world and create advanced concepts in medical diagnostics, therapy, and biotechnology.  
 
 Our vision
 ----------

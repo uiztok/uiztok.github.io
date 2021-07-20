@@ -12,3 +12,4 @@ tagline: Researcher
 
 Tilen ...
 
+{% include publication-list.html %}

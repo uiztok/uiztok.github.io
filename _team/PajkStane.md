@@ -12,3 +12,4 @@ tagline: Researcher
 
 Stane ...
 
+{% include publication-list.html %}

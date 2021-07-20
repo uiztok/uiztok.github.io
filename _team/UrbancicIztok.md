@@ -35,11 +35,6 @@ Employment
 | 2009–present  | Researcher in Laboratory of Biophysics, Jožef Stefan Institute, Ljubljana, Slovenia |  
 | 2016–2019 | Marie Skłodowska-Curie postdoctoral fellow, Eggeling Lab, University of Oxford, UK |  
 
-{% include publication-list.html %}
 
-<!-- {% for post in site.publications reversed %}
-  {% if post.authors contains 'Iztok Urb' %}
-    {% include archive-single-pub.html %}
-  {% endif %}
-{% endfor %} -->
+{% include publication-list.html %}
 

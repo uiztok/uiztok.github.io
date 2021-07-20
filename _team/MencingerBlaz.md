@@ -12,3 +12,4 @@ tagline: Staff
 
 Blaz ...
 
+{% include publication-list.html %}

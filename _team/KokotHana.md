@@ -11,3 +11,5 @@ tagline: PhD student
 {::options parse_block_html="true" /}
 
 Hana ...
+
+{% include publication-list.html %}

@@ -12,3 +12,4 @@ tagline: MSc student
 
 ...
 
+{% include publication-list.html %}

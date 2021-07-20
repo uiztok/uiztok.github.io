@@ -12,3 +12,4 @@ tagline: Lab manager
 
 Ana ...
 
+{% include publication-list.html %}

@@ -12,3 +12,4 @@ tagline: Staff
 
 Petra ...
 
+{% include publication-list.html %}

@@ -12,3 +12,4 @@ tagline: Group Leader LBF@IJS
 
 Janez ...
 
+{% include publication-list.html %}

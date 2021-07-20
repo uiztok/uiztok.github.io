@@ -12,3 +12,4 @@ tagline: PhD student
 
 Boštjan ...
 
+{% include publication-list.html %}
