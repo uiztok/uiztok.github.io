@@ -9,29 +9,44 @@ permalink: /team/
 
 Group Leader
 ------------
-
-{% for post in site.team %} {% if post.tags contains 'PI' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
-
+<div class="grid">
+<div class="wrapper">
+{% for post in site.team %} 
+  {% if post.tags contains 'PI' %} 
+    {% include archive-single-proj.html type="grid" %} 
+  {% endif %} 
+{% endfor %}
+</div>
+</div>
 
 Researchers
 -----------
-
+<div class="grid">
+<div class="wrapper">
 {% for post in site.team %} {% if post.tags contains 'researcher' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
-
+</div>
+</div>
 
 PhD Students
 ------------
-
+<div class="grid">
+<div class="wrapper">
 {% for post in site.team %} {% if post.tags contains 'phd' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
-
+</div>
+</div>
 
 Staff
 -----
-
+<div class="grid">
+<div class="wrapper">
 {% for post in site.team %} {% if post.tags contains 'staff' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
-
+</div>
+</div>
 
 Students
 --------
-
+<div class="grid">
+<div class="wrapper">
 {% for post in site.team %} {% if post.tags contains 'student' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
+</div>
+</div>

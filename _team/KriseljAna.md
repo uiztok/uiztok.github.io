@@ -1,9 +1,9 @@
 ---
-title: "JAna Krišelj"
+title: "Ana Krišelj"
 collection: team
 header:
   teaser: team_AnaKriselj.jpg
-tags: Staff
+tags: staff
 tagline: Lab manager
 
 ---
