@@ -4,6 +4,8 @@ layout: archive
 permalink: /team/
 ---
 
+![Group photo](/images/team_2021.jpg)
+
 
 Group Leader
 ------------
