@@ -2,7 +2,7 @@
 title: "Iztok Urbančič"
 collection: team
 header:
-  teaser: team_IztokUrbancic.jpg
+  teaser: team_Iztok.jpg
 tags: researcher
 tagline: Researcher
 email: 'iztok.urbancic@ijs.si'
