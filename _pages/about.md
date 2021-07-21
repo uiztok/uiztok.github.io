@@ -23,9 +23,10 @@ Our capacities
 --------------
 We are an interdisciplinary, highly motivated, and internationally established [team](/team/) with expertise in biophysics, biochemistry, molecular biology, and engineering. 
 
-We work in a recently renovated and fully equipped clean cell laboratory, chemical laboratory, and a modern optical facility with super-resolution microscopy/nanoscopy. [Read more](/resources/)
+We work in a recently renovated and fully equipped clean cell laboratory, chemical laboratory, and a modern optical facility with super-resolution microscopy/nanoscopy. [Read more ...](/resources/)
 
-
+<!-- 
 Our achievements
 ----------------
 In 2020, we started a spin-out company [Infinite Biotech](http://www.infinite-biotech.com) for animal-free safety testing of nanomaterials and chemicals. 
+ -->

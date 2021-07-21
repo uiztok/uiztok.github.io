@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "uiztok"
+  github           : #"uiztok"
   google_plus      :
   keybase          :
   instagram        :
@@ -178,6 +178,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/  
   team:
     output: true
     permalink: /:collection/:path/
