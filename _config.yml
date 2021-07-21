@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &StrancarLab
+  username               : &twitter StrancarLab
 facebook:
   username               :
   app_id                 :
@@ -84,10 +84,10 @@ author:
   avatar           : "LBFlogo_white.png"
   bio              : "Exploring molecular world with biophysics and microscopes"
   location         : "Ljubljana, Slovenia"
-  employer         :
+  employer         : "Jožef Stefan Institute"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=janez+strancar"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "janez.strancar@ijs.si"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@StrancarLab"
+  twitter          : "StrancarLab"
   vine             :
   weibo            :
   xing             :
