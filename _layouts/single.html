@@ -80,12 +80,12 @@ layout: default
 
         {% if page.collection == 'news' %}
           {% if page.header.teaser %}
-            {% if page.gallery %}
+            <!-- {% if page.gallery %}
             <p>
-              {% else %}
+              {% else %} -->
               <p><center><img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='max-height: 350px; width: 80%; object-fit: contain;' >
             <p><justify>
-            {% endif %}
+            <!-- {% endif %} -->
           {% endif %}
         {% endif %}
 
