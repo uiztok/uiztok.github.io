@@ -15,4 +15,5 @@ In brief
 We develop and synthesise new fluorescent probes, in particular environment-sensitive probes and those compatible with super-resolution STED microscopy.
 
 
+{% include project-members.html %}
 {% include project-publications.html %}

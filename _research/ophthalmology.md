@@ -25,4 +25,5 @@ Collaborators
 * Eye clinics, University Medical Center Ljubljana, Slovenia
 
 
+{% include project-members.html %}
 {% include project-publications.html %}
