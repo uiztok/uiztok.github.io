@@ -7,6 +7,7 @@ authors: 'Iztok Urbančič, Maja Garvas, Boštjan Kokot, Hana Majaron, Polona Um
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.nanolett.8b02291'
 doi: 10.1021/acs.nanolett.8b02291
 type: 'Paper'
+project: 'nanotox'
 ---
 <!--
 permalink: /publication/2020-10-09-Kokot-AdvMat

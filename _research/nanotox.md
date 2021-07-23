@@ -23,3 +23,5 @@ Collaborators
 * Partners of the EU H2020 project [SmartNanoTox](http://www.smartnanotox.eu/)
 
 
+{% include project-publications.html %}
+

@@ -1,6 +1,6 @@
 ---
 title: "Ophthalmology"
-type: "eye"
+name: "eye"
 collection: research
 layout: archive
 date: 2016-01-01
@@ -23,3 +23,6 @@ Collaborators
 * [Laboratory for photonics and laser systems](https://www.fs.uni-lj.si/en/research_work/laboratories/laboratory_presentation/2016111513291034/), Faculty of mechanical engineering, University of Ljubljana
 * [Optotek Medical d.o.o.](https://www.optotek-medical.com/)
 * Eye clinics, University Medical Center Ljubljana, Slovenia
+
+
+{% include project-publications.html %}
