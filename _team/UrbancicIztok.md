@@ -5,11 +5,14 @@ header:
   teaser: team_IztokUrbancic.jpg
 tags: researcher
 tagline: Researcher
+location: 'Room 111'
+phone: '+386 1 4773193'
 email: 'iztok.urbancic@ijs.si'
 twitter: 'uiztok'
-orcid: "https://orcid.org/0000-0003-3603-6585"
+orcid: "0000-0003-3603-6585"
+publons: "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
-researchgate: "https://www.researchgate.net/profile/Iztok-Urbancic"
+researchgate: "Iztok-Urbancic"
 ---
 
 {::options parse_block_html="true" /}
