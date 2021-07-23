@@ -6,7 +6,7 @@
 
 <ul>
   {% for post in site.publications reversed %}
-    {% if post.authors contains page.title %}
+    {% if post.authors contains page.title or post.authors contains page.title2 %}
 
       {% assign currentdate = post.date | date: "%Y" %}
       {% if currentdate != date %}

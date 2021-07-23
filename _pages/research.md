@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research fields"
 permalink: /research/
 ---
 {% include base_path %}

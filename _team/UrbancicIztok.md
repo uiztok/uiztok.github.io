@@ -1,14 +1,15 @@
 ---
 title: "Iztok Urbančič"
+title2: "Iztok Urbancic"
 collection: team
 header:
   teaser: team_IztokUrbancic.jpg
 tags: researcher
 tagline: Researcher
-location: 'Room 111'
-phone: '+386 1 4773193'
-email: 'iztok.urbancic@ijs.si'
-twitter: 'uiztok'
+location: "Room 111"
+phone: "+386 1 4773193"
+email: "iztok.urbancic@ijs.si"
+twitter: "uiztok"
 orcid: "0000-0003-3603-6585"
 publons: "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
