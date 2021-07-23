@@ -68,11 +68,14 @@ layout: default
             {% if page.twitter %}
             <br><a href="https://twitter.com/{{ page.twitter }}" style="text-decoration: none"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
             {% endif %}
+            {% if page.orcid %}
+              <br><a href="{{ page.orcid }}" style="text-decoration: none"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
+            {% endif %}
             {% if page.googlescholar %}
               <br><a href="{{ page.googlescholar }}" style="text-decoration: none"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
             {% endif %}
-            {% if page.orcid %}
-              <br><a href="{{ page.orcid }}" style="text-decoration: none"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
+            {% if page.researchgate %}
+              <br><a href="{{ page.researchgate }}" style="text-decoration: none"><i class="ai ai-researchgate-square ai-fw"></i> ResearchGate</a>
             {% endif %}
             </p>
           

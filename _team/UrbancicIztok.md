@@ -7,8 +7,9 @@ tags: researcher
 tagline: Researcher
 email: 'iztok.urbancic@ijs.si'
 twitter: 'uiztok'
-googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 orcid: "https://orcid.org/0000-0003-3603-6585"
+googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
+researchgate: "https://www.researchgate.net/profile/Iztok-Urbancic"
 ---
 
 {::options parse_block_html="true" /}
