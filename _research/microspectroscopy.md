@@ -1,6 +1,6 @@
 ---
 title: "Microspectroscopy"
-type: "fms"
+name: "fms"
 collection: research
 layout: archive
 date: 2016-01-01

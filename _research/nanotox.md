@@ -1,6 +1,6 @@
 ---
 title: "Nanotoxicology"
-type: "nanotox"
+name: "nanotox"
 collection: research
 layout: archive
 date: 2016-01-01

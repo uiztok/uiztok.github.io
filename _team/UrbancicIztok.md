@@ -18,23 +18,17 @@ projects: "fms, nanotox"
 
 {::options parse_block_html="true" /}
 
-Research focus
---------------
-
-I develop and apply advanced optical microscopy techniques to study biophysical mechanisms at the molecular and cellular levels, in particular related to nanomaterial-cell interaction, and in activation of immune cells.
-
-
-Education
+Short CV
 ---------
+
+<h3>Education</h3>  
 
 | --------- | -------- |  
 | 2016–2019 | Postdoc in advanced microscopy and nanoimmunology, University of Oxford, UK |  
 | 2013–2009 | PhD in biophysics, University of Maribor, Slovenia |  
 | 2009–2004 | Diploma in physics, University of Ljubljana, Slovenia |  
 
-
-Employment
-----------
+<h3>Employment</h3>  
 
 | --------- | -------- |  
 | 2009–present  | Researcher in Laboratory of Biophysics, Jožef Stefan Institute, Ljubljana, Slovenia |  
