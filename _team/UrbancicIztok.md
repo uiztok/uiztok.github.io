@@ -13,6 +13,7 @@ orcid: "0000-0003-3603-6585"
 publons: "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 researchgate: "Iztok-Urbancic"
+projects: "fms, nanotox"
 ---
 
 {::options parse_block_html="true" /}
@@ -40,5 +41,6 @@ Employment
 | 2016–2019 | Marie Skłodowska-Curie postdoctoral fellow, Eggeling Lab, University of Oxford, UK |  
 
 
+{% include person-projects.html %}
 {% include publication-list.html %}
 
