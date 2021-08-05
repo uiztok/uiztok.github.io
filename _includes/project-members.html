@@ -1,0 +1,17 @@
+<h2>Project members </h2>
+
+<ul>
+<div class="grid">
+  <div class="wrapper">
+      
+    {% for post in site.team %}
+        
+      {% if post.projects contains page.name %}
+        {% include archive-single-proj.html type="grid" %}
+      {% endif %}
+        
+    {% endfor %}
+
+  </div>
+</div>
+</ul>
