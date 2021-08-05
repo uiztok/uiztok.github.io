@@ -1,6 +1,6 @@
 ---
 title: "Rok Podlipec"
-title2: ""
+title2: 
 collection: team
 header:
   teaser: team_RokPodlipec.jpg

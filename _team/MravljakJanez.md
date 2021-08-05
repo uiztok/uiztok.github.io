@@ -1,6 +1,6 @@
 ---
 title: "Janez Mravljak"
-title2: ""
+title2: 
 collection: team
 header:
   teaser: team_JanezMravljak.jpg

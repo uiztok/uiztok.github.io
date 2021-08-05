@@ -1,6 +1,6 @@
 ---
 title: "Aleksandar Sebastijanović"
-title2: ""
+title2: 
 collection: team
 header:
   teaser: team_AleksandarSeb.jpg

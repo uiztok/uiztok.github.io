@@ -1,6 +1,6 @@
 ---
 title: "Stane Pajk"
-title2: ""
+title2: 
 collection: team
 header:
   teaser: team_StanePajk.jpg

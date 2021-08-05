@@ -1,6 +1,6 @@
 ---
 title: "Urša Uršič"
-title2: ""
+title2: 
 collection: team
 header:
   teaser: team_profile.png
