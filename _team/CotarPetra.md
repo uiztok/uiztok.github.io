@@ -18,7 +18,7 @@ projects: # "fms, nanotox, eye, probes"
 
 {::options parse_block_html="true" /}
 
-...
+About me...
 
 
 {% include person-projects.html %}
