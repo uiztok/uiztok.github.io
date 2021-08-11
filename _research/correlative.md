@@ -5,10 +5,10 @@ collection: research
 layout: archive
 date: 2018-01-01
 header:
-  teaser: 
+  teaser: proj_Correlative2021.jpg
 ---
 
-
+![Correlative](/images/proj_Correlative2021.jpg)
 
 In brief
 --------
