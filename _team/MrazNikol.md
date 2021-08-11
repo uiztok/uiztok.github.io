@@ -13,12 +13,13 @@ orcid: # "0000-0001-8032-132X"
 publons: # "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: # "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 researchgate: # "Iztok-Urbancic"
-projects: # "fms, nanotox, eye, probes"
+projects: "probes"
 ---
 
 {::options parse_block_html="true" /}
 
-About me ...
+I am a MSc student of Laboratory Biomedicine on the Faculty of Pharmacy, University of Ljubljana, Slovenia. 
+For my Master's Thesis, I am determining the suitability of several fluorescent probes for long-term live-cell imaging.
 
 
 {% include person-projects.html %}
