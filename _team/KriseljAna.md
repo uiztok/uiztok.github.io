@@ -1,6 +1,6 @@
 ---
 title: "Ana Krišelj"
-title2: 
+title2: "Ana Kriselj"
 collection: team
 header:
   teaser: team_AnaKriselj.jpg

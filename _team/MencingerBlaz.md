@@ -1,6 +1,6 @@
 ---
 title: "Blaž Mencinger"
-title2: 
+title2: "Blaz Mencinger"
 collection: team
 header:
   teaser: team_BlazMencinger.jpg
