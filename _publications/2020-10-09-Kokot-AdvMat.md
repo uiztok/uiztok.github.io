@@ -8,7 +8,7 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/adma.202003913'
 doi: 10.1002/adma.202003913
 type: 'Paper'
 header:
-  teaser: '/images/proj_AdvMat.jpg'
+  teaser: proj_AdvMat.jpg
 project: 'nanotox, correlative'
 ---
 <!--
