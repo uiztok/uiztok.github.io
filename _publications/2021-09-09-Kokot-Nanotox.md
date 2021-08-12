@@ -7,7 +7,6 @@ authors: 'Boštjan Kokot, Hana Kokot, Polona Umek, Katarina Petra van Midden, St
 paperurl: 'https://www.biorxiv.org/content/10.1101/2021.04.19.440400v1'
 doi: 10.1101/2021.04.19.440400 
 type: 'Paper'
-header:
 project: 'nanotox, probes'
 ---
 

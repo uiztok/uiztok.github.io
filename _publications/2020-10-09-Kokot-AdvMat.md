@@ -7,7 +7,6 @@ authors: 'Hana Kokot, Boštjan Kokot, Aleksandar Sebastijanović, Carola Voss, R
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/adma.202003913'
 doi: 10.1002/adma.202003913
 type: 'Paper'
-header:
 project: 'nanotox'
 ---
 <!--
