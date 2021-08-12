@@ -7,7 +7,9 @@ authors: 'Hana Kokot, Boštjan Kokot, Aleksandar Sebastijanović, Carola Voss, R
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/adma.202003913'
 doi: 10.1002/adma.202003913
 type: 'Paper'
-project: 'nanotox'
+header:
+  teaser: '/images/proj_AdvMat.jpg'
+project: 'nanotox, correlative'
 ---
 <!--
 permalink: /publication/2020-10-09-Kokot-AdvMat

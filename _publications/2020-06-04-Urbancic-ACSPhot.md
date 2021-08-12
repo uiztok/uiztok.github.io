@@ -5,7 +5,7 @@ date: 2020-06-04
 venue: 'ACS Photonics'
 authors: 'Aurélien Barbotin, Iztok Urbančič, Silvia Galiani, Christian Eggeling, Martin Booth'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acsphotonics.0c00388'
-doi: 10.1021/acsphotonics.0c00388
+doi:10.1021/acsphotonics.0c00388
 type: 'Paper'
 header:
   teaser: #'/images/proj_Labelling2021.jpg'

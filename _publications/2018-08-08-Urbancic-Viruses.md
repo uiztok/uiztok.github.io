@@ -7,7 +7,9 @@ authors: 'Iztok Urbančič, Juliane Brun, Dilip Shrestha, Dominic Waithe, Christ
 paperurl: 'https://www.mdpi.com/1999-4915/10/8/415'
 doi: 10.3390/v10080415
 type: 'Paper'
-project: 'nanotox, probes'
+header:
+  teaser: #'/images/proj_Labelling2021.jpg'
+project: #'nanotox, probes'
 ---
 
 In brief 
