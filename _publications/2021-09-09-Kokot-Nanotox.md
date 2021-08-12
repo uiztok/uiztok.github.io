@@ -8,7 +8,6 @@ paperurl: 'https://www.biorxiv.org/content/10.1101/2021.04.19.440400v1'
 doi: 10.1101/2021.04.19.440400 
 type: 'Paper'
 header:
-  teaser: #proj_Labelling2021.jpg
 project: 'nanotox, probes'
 ---
 
