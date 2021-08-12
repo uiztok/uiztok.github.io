@@ -18,15 +18,6 @@ projects: "fms, nanotox, eye, probes"
 
 {::options parse_block_html="true" /}
 
-As a PhD student conducting research in the field of (Predictive) Nanotoxicology, 
-I wish to pinpoint the key molecular events in the interactions between nanomaterials and cells, 
-understand how they lead to diseases, and devise simple tests to predict them. 
-
-I enjoy combining advanced live-cell optical imaging 
-(STED, FLIM, 2-photon microscopy, hyperspectral imaging, ...), 
-image analysis and quantification, modelling, and testing newly-designed fluorescent probes with 
-complementary approaches to resolve burning issues, as we successfully 
-accomplished in the H2020 project SmartNanoTox.
 
 
 Short CV
