@@ -6,35 +6,20 @@ header:
   teaser: team_PetraCotar.jpg
 tags: staff
 tagline: Staff
-location: # "Room 109"
+location: "Room J111"
 phone: # "+386 1 4773226"
 email: "petra.cotar@ijs.si"
 orcid: # "0000-0001-8032-132X"
 publons: # "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: # "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 researchgate: # "Iztok-Urbancic"
-projects: "fms, nanotox, eye, probes"
+projects: "nanotox, ai"
 ---
 
 {::options parse_block_html="true" /}
 
+...
 
-
-Short CV
----------
-
-<h3>Education</h3>  
-
-| --------- | -------- |  
-| 2017 – present | PhD in Nanosciences and Nanotechnologies, Jožef Stefan Postgraduate School, Ljubljana, Slovenia |  
-| 2013 – 2016 | Master of Science in Physics, University of Ljubljana, Slovenia |  
-| 2010 – 2013 | Bachelor of Science in Physics, University of Ljubljana, Slovenia |  
-
-<h3>Employment</h3>  
-
-| --------- | -------- |  
-| 2017 – present  | PhD student in Laboratory of Biophysics, Jožef Stefan Institute, Ljubljana, Slovenia |  
-| 2016 – 2017  | Professional associate in Laboratory of Biophysics, Jožef Stefan Institute, Ljubljana, Slovenia |  
 
 
 {% include person-projects.html %}
