@@ -3,7 +3,7 @@ title: "Hana Kokot"
 title2: "Hana Majaron"
 collection: team
 header:
-  teaser: team_HanaKokot.jpg
+  teaser: team_HanaKokot.png
 tags: phd
 tagline: PhD student
 location: "Room 111"
