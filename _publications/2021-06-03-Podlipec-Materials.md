@@ -11,11 +11,7 @@ header:
   teaser: '/images/proj_Correlative2021.jpg'
 project: 'correlative'
 ---
-<!--
-permalink: /publication/2020-10-09-Kokot-AdvMat
-excerpt: 'We built the first in vitro model to predict nanomaterial-induced chronic inflammation'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
--->
+
 
 In brief 
 --------
@@ -23,3 +19,5 @@ In our study, new insights of titanium alloy debris-tissue interaction were reve
 hybrid optical fluorescence and reflectance micro-spectroscopy, scanning electron microscopy (SEM), Energy-dispersive X-ray Spectroscopy (EDS), helium ion microscopy (HIM) and micro-particle-induced X-ray emission (micro-PIXE). 
 Micron-sized wear debris were found as the main cause of the tissue oxidative stress exhibited through lipopigments accumulation in the nearby lysosome. 
 This may explain the indications of chronic inflammation from prior histologic examination. 
+
+![correlative microscopy](/images/proj_Correlative2021.jpg)

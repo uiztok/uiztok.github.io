@@ -11,11 +11,7 @@ header:
   teaser: #'/images/proj_Probes2019.jpg'
 project: 'eye'
 ---
-<!--
-permalink: /publication/2020-10-09-Kokot-AdvMat
-excerpt: 'We built the first in vitro model to predict nanomaterial-induced chronic inflammation'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
--->
+
 
 In brief 
 --------

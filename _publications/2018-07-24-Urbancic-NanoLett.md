@@ -9,11 +9,7 @@ doi: 10.1021/acs.nanolett.8b02291
 type: 'Paper'
 project: 'nanotox'
 ---
-<!--
-permalink: /publication/2020-10-09-Kokot-AdvMat
-excerpt: 'We built the first in vitro model to predict nanomaterial-induced chronic inflammation'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
--->
+
 
 In brief 
 --------
