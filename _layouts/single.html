@@ -108,34 +108,18 @@ layout: default
         {% if page.collection == 'publications' %}
           <span style="font-size:0.8em; line-height: 0.5;">
           {% if page.venue and page.doi %}
-            <b>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }} </b>
+            <b><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }};</b>
           {% endif %}
           {% if page.doi%}
-            <b>; doi: {{ page.doi }}</b>
+            <b>doi: {{ page.doi }} </b>
           {% endif %}
           {% if page.paperurl%}
-            <b> (read more <a href="{{ page.paperurl }}"> here</a>)</b>
+            <b> (read more <a href="{{ page.paperurl }}"> here</a>).</b>
           {% endif %}
-          .</span><br>
+          </span><br>
         {% endif %}
 
-        <!-- 
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
-        {% endif %}
-
-
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
-        {% elsif page.paperurl %}
-          <cite>(read more <a href="{{ page.paperurl }}"> here</a>). </cite>
-        {% endif %} 
-      -->
-
+        
         </header>
       {% endunless %}
 
