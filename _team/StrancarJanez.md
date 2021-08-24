@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: team_JanezStrancar.jpg
 tags: PI
-tagline: Group Leader LBF@IJS
+tagline: Group Leader
 location: "Room 109"
 phone: "+386 1 4773226"
 email: "janez.strancar@ijs.si"

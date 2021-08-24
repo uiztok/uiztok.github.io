@@ -9,6 +9,7 @@ tagline: PhD student
 location: "Room 111"
 phone: "+386 1 477 3636"
 email: "hana.kokot@ijs.si"
+twitter: # "StrancarLab"
 orcid: "0000-0001-8569-2816"
 publons: # "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: # "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
