@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"uiztok"
+  github           : # "uiztok"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/0000-0001-8032-132X"
@@ -182,6 +182,9 @@ collections:
     output: true
     permalink: /:collection/:path/  
   team:
+    output: true
+    permalink: /:collection/:path/
+  resources:
     output: true
     permalink: /:collection/:path/
   publications:
