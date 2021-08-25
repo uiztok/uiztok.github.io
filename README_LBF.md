@@ -5,18 +5,18 @@ Below a very short intro on how to modify the content of our new website, which 
 Some of the pages use the content specified directly within the `.md` **files** in the `_pages` directory:
 
 * *about*
-* *applications*
-* *resources*
 * *contact*
 
 To edit these, simply modify the text using the markdown styling (for basic instructions, see `/pages/markdown.md`) or `html`. The header within the `--` symbols contains the metadata used to generate the page, so don't modify that.
 
 Other pages are generated from individual files within the relevant **folders**:
 
-* *_team*
 * *_news*
-* *_publications*
 * *_research*
+* *_applications*
+* *_team*
+* *_resources*
+* *_publications*
 * *_teaching*
 
 To edit those, do the following:

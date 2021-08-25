@@ -1,7 +1,7 @@
 ---
 title: "Resources and infrastructure"
-layout: archive
 permalink: /resources/
+layout: archive
 ---
 
 {% include base_path %}

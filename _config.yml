@@ -180,6 +180,9 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
+    permalink: /:collection/:path/ 
+  applications:
+    output: true
     permalink: /:collection/:path/  
   team:
     output: true
