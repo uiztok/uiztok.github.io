@@ -20,6 +20,9 @@ projects: "fms, nanotox, ai"
 {::options parse_block_html="true" /}
 
 
+*I am deeply fascinated by the incredible orchestration of life across vastly different spatiotemporal scales, which drives me in the quest to unravel the molecular mechanisms of cellular processes. I am convinced that the biophysical approach, together with advanced optical microscopy and spectroscopy techniques, can offer a powerful tool in solving this great puzzle.*
+
+
 ![Tcells](/images/proj_FMS.jpg)
 
 
