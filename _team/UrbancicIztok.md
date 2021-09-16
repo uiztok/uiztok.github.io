@@ -15,6 +15,9 @@ publons: "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 researchgate: "Iztok-Urbancic"
 projects: "fms, nanotox, ai"
+redirect_from: 
+  - //Iztok
+  - //Iztok.php.html
 ---
 
 {::options parse_block_html="true" /}
