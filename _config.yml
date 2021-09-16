@@ -11,7 +11,7 @@ title                    : "LBF @ IJS"
 title_separator          : "-"
 name                     : &name "Laboratory of Biophysics"
 description              : &description "Laboratory of Biophysics at Jožef Stefan Institute"
-url                      : https://uiztok.github.io 
+url                      : https://lbf.ijs.si # https://uiztok.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uiztok/uiztok.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
