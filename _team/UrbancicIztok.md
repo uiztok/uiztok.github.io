@@ -17,7 +17,9 @@ researchgate: "Iztok-Urbancic"
 projects: "fms, nanotox, ai"
 redirect_from: 
   - /iztok
+  - /iztok/
   - /Iztok
+  - /Iztok/
   - //Iztok
   - //Iztok.php.html
 ---
