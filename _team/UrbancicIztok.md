@@ -16,6 +16,7 @@ googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 researchgate: "Iztok-Urbancic"
 projects: "fms, nanotox, ai"
 redirect_from: 
+  - /iztok
   - /Iztok
   - //Iztok
   - //Iztok.php.html
