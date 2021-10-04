@@ -8,7 +8,7 @@ venue: "Univerza v Ljubljani, Fakulteta za farmacijo, Laboratorijska biomedicina
 location: "Ljubljana, Slovenija"
 ---
 
-Predmet se izvaja v zimskem semestru 1. letnika študijskega programa Laboratorijska biomedicina (II. bolonjska stopnja) na Fakulteti za farmacijo Univerze v Ljubljani.  
+Predmet se izvaja v zimskem semestru 1. letnika študijskega programa *Laboratorijska biomedicina* (II. bolonjska stopnja) na [Fakulteti za farmacijo](http://www.ffa.uni-lj.si) Univerze v Ljubljani.  
 
 Nosilec: [prof. dr. Janez Štrancar](/team/StrancarJanez)
 
@@ -28,9 +28,10 @@ Predavanja
 13 - [Časovna okna](/files/teaching/biofizika/13-MolBiof-CasovnaOkna.pdf)  
 14 - [Razdalje](/files/teaching/biofizika/14-MolBiof-Razdalje.pdf)  
 
+<!-- 
 Vaje
 ======
 [Povzetek vaj](/files/teaching/biofizika/vaje_mol_biofiz)
 
 Izpiti
-======
+====== -->
