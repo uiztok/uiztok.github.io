@@ -11,7 +11,8 @@ location: "Ljubljana, Slovenija"
 Predmet se izvaja v zimskem semestru 1. letnika študijskega programa *Laboratorijska biomedicina* (II. bolonjska stopnja) na [Fakulteti za farmacijo](http://www.ffa.uni-lj.si) Univerze v Ljubljani.  
 
 Nosilec: [prof. dr. Janez Štrancar](/team/StrancarJanez)  
-Soizvjalaec: [dr. Iztok Urbančič](/team/UrbancicIztok)
+Soizvjalec: [dr. Iztok Urbančič](/team/UrbancicIztok)
+
 
 Predavanja
 ----
@@ -31,6 +32,11 @@ Predavanja
 12 - [Dinamika znotraj molekule, spektroskopije](/files/teaching/biofizika/2020/12-MolBiof-IntramolekularnaGibanja.pdf)  
 13 - [Časovna okna](/files/teaching/biofizika/2020/13-MolBiof-CasovnaOkna.pdf)  
 14 - [Razdalje](/files/teaching/biofizika/2020/14-MolBiof-Razdalje.pdf)  
+
+
+Konzultacije
+----
+Po predhodnem dogovoru - kontaktni podatki so na zgornjih povezavah.
 
 <!-- 
 Vaje
