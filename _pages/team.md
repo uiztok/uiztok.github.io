@@ -50,3 +50,11 @@ Students
 {% for post in site.team %} {% if post.tags contains 'student' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
 </div>
 </div>
+
+Past members
+--------
+<div class="grid">
+<div class="wrapper">
+{% for post in site.team %} {% if post.tags contains 'former' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
+</div>
+</div>
