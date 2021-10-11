@@ -17,6 +17,10 @@ We develop optical methods for diagnostics and therapy of ophthalmologic disease
 * Microspectroscopy-based optimization of the effects of laser pulses on the retina (ARRS L7-7561)
 * Spatio-temporal shaping of laser light for minimally invasive ophthalmological procedures (ARRS L2-9254)
 
+We also participated in the EU-funded Smart Specialisation programme [GOSTOP](https://www.gostop.si/o-programu/).
+
+![gostop](/images/proj_GostopLogo.jpg)
+
 
 Collaborators
 -------------

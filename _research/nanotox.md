@@ -22,6 +22,8 @@ Collaborators
 * Our spin-out company [Infinite Biotech](http://www.infinite-biotech.com)
 * Partners of the EU H2020 project [SmartNanoTox](http://www.smartnanotox.eu/)
 
+![SmartNanoTox](/images/proj_SmartNanoTox-logo.png)
+
 
 {% include project-members.html %}
 {% include project-publications.html %}
