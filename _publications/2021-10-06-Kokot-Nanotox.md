@@ -1,11 +1,11 @@
 ---
 title: "How to Control Fluorescent Labeling of Metal Oxide Nanoparticles for Artefact-free Live Cell Microscopy"
 collection: publications
-date: 2021-09-09
+date: 2021-10-06
 venue: 'Nanotoxicology'
 authors: 'Boštjan Kokot, Hana Kokot, Polona Umek, Katarina Petra van Midden, Stane Pajk, Maja Garvas, Christian Eggeling, Tilen Koklič, Iztok Urbančič, Janez Štrancar'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2021.04.19.440400v1'
-doi: 10.1101/2021.04.19.440400 
+paperurl: 'https://doi.org/10.1080/17435390.2021.1973607'
+doi: 10.1080/17435390.2021.1973607 
 type: 'Paper'
 header:
   teaser: '/images/proj_Labelling2021.jpg'
