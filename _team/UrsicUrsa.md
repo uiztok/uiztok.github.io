@@ -3,7 +3,7 @@ title: "Urša Uršič"
 title2: 
 collection: team
 header:
-  teaser: team_profile.png
+  teaser: team_UrsaUrsic.png
 tags: former
 tagline: MSc student
 location: # "Room 109"
@@ -19,8 +19,7 @@ projects: "fms, nanotox"
 
 {::options parse_block_html="true" /}
 
-About me ...
-
+For my MSc thesis in LBF, I studied the influence of TiO2 nanoparticles on the mechanical response of epithelial cells to osmotic shocks.
 
 {% include person-projects.html %}
 {% include publication-list.html %}

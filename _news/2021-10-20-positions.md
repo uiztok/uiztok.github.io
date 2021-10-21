@@ -1,6 +1,6 @@
 ---
 title: "We are hiring!"
-date: 2021-07-01
+date: 2021-10-20
 collection: news
 header:
   teaser: 'team_profile.png'
