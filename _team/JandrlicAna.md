@@ -4,7 +4,7 @@ title2:
 collection: team
 header:
   teaser: team_profile.png
-tags: student
+tags: former
 tagline: MSc student
 location: # "Room 109"
 phone: # "+386 1 4773226"
