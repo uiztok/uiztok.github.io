@@ -23,7 +23,7 @@ Predavanja
 04 - [Metode za merjenje interakcij](/files/teaching/biofizika/2021/04_merjenje-interakcij.pdf)     
 05 - [Samoorganizacija](/files/teaching/biofizika/2021/05_samoorganizacija.pdf)   
 06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_merjenje-struktur.pdf)   
-07 - [Površinski pojavi ](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf) 
+07 - [Površinski pojavi ](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf)  
 <!-- 
 01 - [Uvod, voda, gradniki](/files/teaching/biofizika/2020/01-MolBiof-UVOD_voda_gradniki.pdf)  
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2020/02-MolBiof-MedMolInterakcije.pdf)  
