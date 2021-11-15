@@ -25,6 +25,7 @@ Predavanja
 06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_merjenje-struktur.pdf)   
 07 - [Površinski pojavi ](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf)  
 08 - [Gibljivost delcev na molekularnem nivoju](/files/teaching/biofizika/2021/08_gibljivost.pdf)  
+09 - [Dinamika znotraj molekule, spektroskopije](/files/teaching/biofizika/2021/09_dinamika-znotraj-molekul.pdf)  
 <!-- 
 01 - [Uvod, voda, gradniki](/files/teaching/biofizika/2020/01-MolBiof-UVOD_voda_gradniki.pdf)  
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2020/02-MolBiof-MedMolInterakcije.pdf)  
@@ -34,12 +35,11 @@ Predavanja
 06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_sipanje.pdf) 
 07 - [Površinski pojavi ](/files/teaching/biofizika/2020/08-MolBiof-PovrsinskiPojavi.pdf) 
 08 - [Gibljivost delcev na molekularnem nivoju](/files/teaching/biofizika/2020/09-MolBiof-Gibljivost.pdf)  
--->
 09 - [Dinamika znotraj molekule, spektroskopije](/files/teaching/biofizika/2020/12-MolBiof-IntramolekularnaGibanja.pdf)  
-10 - [Dinamika (supra)molekularnih sistemov](/files/teaching/biofizika/2020/11-MolBiof-DinamikaSupramolekularnihSistemov.pdf)  
-11 - [Časovna okna](/files/teaching/biofizika/2020/13-MolBiof-CasovnaOkna.pdf)  
-12 - [Razdalje](/files/teaching/biofizika/2020/14-MolBiof-Razdalje.pdf)  
-13 - [Membranski potencial](/files/teaching/biofizika/2020/10-MolBiof-MembranskiPotencial.pdf)   
+-->
+10 - [Razdalje](/files/teaching/biofizika/2020/14-MolBiof-Razdalje.pdf)  
+11 - [Dinamika (supra)molekularnih sistemov](/files/teaching/biofizika/2020/11-MolBiof-DinamikaSupramolekularnihSistemov.pdf)  
+12 - [Membranski potencial](/files/teaching/biofizika/2020/10-MolBiof-MembranskiPotencial.pdf)   
 
 
 Konzultacije
