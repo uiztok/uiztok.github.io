@@ -38,9 +38,11 @@ Predavanja
 08 - [Gibljivost delcev na molekularnem nivoju](/files/teaching/biofizika/2020/09-MolBiof-Gibljivost.pdf)  
 09 - [Dinamika znotraj molekule, spektroskopije](/files/teaching/biofizika/2020/12-MolBiof-IntramolekularnaGibanja.pdf)  
 10 - [Razdalje](/files/teaching/biofizika/2020/14-MolBiof-Razdalje.pdf)
--->
 11 - [Dinamika (supra)molekularnih sistemov](/files/teaching/biofizika/2020/11-MolBiof-DinamikaSupramolekularnihSistemov.pdf)  
 12 - [Membranski potencial](/files/teaching/biofizika/2020/10-MolBiof-MembranskiPotencial.pdf)   
+-->
+11 - Membranski potencial
+12 - Ponavljanje
 
 
 Konzultacije
