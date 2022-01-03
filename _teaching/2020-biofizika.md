@@ -41,7 +41,7 @@ Predavanja
 11 - [Dinamika (supra)molekularnih sistemov](/files/teaching/biofizika/2020/11-MolBiof-DinamikaSupramolekularnihSistemov.pdf)  
 12 - [Membranski potencial](/files/teaching/biofizika/2020/10-MolBiof-MembranskiPotencial.pdf)   
 -->
-11 - Membranski potencial
+11 - Membranski potencial  
 12 - Ponavljanje
 
 
