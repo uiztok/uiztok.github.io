@@ -52,7 +52,13 @@ Po predhodnem dogovoru - kontaktni podatki so na zgornjih povezavah.
 <!-- 
 Vaje
 ======
-[Povzetek vaj](/files/teaching/biofizika/vaje_mol_biofiz)
+[Povzetek vaj](/files/teaching/biofizika/vaje_mol_biofiz)-->
 
 Izpiti
-====== -->
+----
+
+| --- | --- | --- | --- | --- |
+| Izpitni rok | Datum | Ura | Predavalnica | Rezultati, razpored ustnih zagovorov |
+| --- | --- | --- | --- | --- |
+| 1. | sreda, 2. 2. | 15.00-17.00 | Predavalnica na dvorišču (PD) | |
+| 2. | sreda, 16. 2. | 8.00-10.00 | Ilirija, Tržaška c. 32 | |
