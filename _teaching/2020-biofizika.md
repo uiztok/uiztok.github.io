@@ -28,6 +28,7 @@ Predavanja
 09 - [Dinamika znotraj molekule, spektroskopije](/files/teaching/biofizika/2021/09_dinamika-znotraj-molekul.pdf)  
 10 - [Razdalje, mikroskopija](/files/teaching/biofizika/2021/10_razdalje_mikroskopija.pdf)  
 11 - [Membranski potencial](/files/teaching/biofizika/2021/11_membranski-potencial.pdf)  
+12 - [Dinamika molekularnih sistemov](/files/teaching/biofizika/2021/12_dinamika-molekularnih-sistemov.pdf)  
 <!-- 
 01 - [Uvod, voda, gradniki](/files/teaching/biofizika/2020/01-MolBiof-UVOD_voda_gradniki.pdf)  
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2020/02-MolBiof-MedMolInterakcije.pdf)  
