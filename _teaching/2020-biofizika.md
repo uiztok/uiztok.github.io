@@ -63,3 +63,5 @@ Izpiti
 | --- | --- | --- | --- | --- |
 | 1. | sreda, 2. 2. | 15.00-17.00 | Predavalnica na dvorišču (PD) | ponedeljek, 7. 2., dopoldne |
 | 2. | sreda, 16. 2. | 8.00-10.00 | Ilirija, Tržaška c. 32 | četrtek, 17. 2., popoldne - petek, 18. 2., cel dan |
+| 3. | sreda, 4. 5. | 8.00-10.00 | Predavalnica na dvorišču (PD) | petek, 6. 5. |
+
