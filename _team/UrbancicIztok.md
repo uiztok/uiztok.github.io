@@ -36,6 +36,13 @@ redirect_from:
 Short CV
 ---------
 
+<h3>Current positions</h3>  
+
+| --------- | -------- |  
+| since 2022 | Assistant professor at University of Ljubljana, Slovenia |  
+| since 2020 | Research associate at Jožef Stefan Institute, Ljubljana, Slovenia |  
+
+
 <h3>Education</h3>  
 
 | --------- | -------- |  
