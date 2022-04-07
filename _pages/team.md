@@ -51,7 +51,7 @@ Students
 </div>
 </div>
 
-Past members
+Past members since 2020
 --------
 <div class="grid">
 <div class="wrapper">
