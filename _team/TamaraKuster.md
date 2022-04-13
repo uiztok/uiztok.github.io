@@ -3,7 +3,7 @@ title: "Tamara Picaboo Kuster"
 title2: 
 collection: team
 header:
-  teaser: team_TamaraKuster.jpg
+  teaser: team_TamaraKuster.jpg 
 tags: student
 tagline: MSc student
 location: # "Room 109"
