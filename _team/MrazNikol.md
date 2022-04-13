@@ -19,9 +19,8 @@ projects: "probes"
 
 {::options parse_block_html="true" /}
 
-I am a MSc student of Laboratory Biomedicine on the Faculty of Pharmacy, University of Ljubljana, Slovenia. 
-For my Master's Thesis, I am determining the suitability of several fluorescent probes for long-term live-cell imaging.
-
+For my Master's degree of Laboratory Biomedicine on the Faculty of Pharmacy, University of Ljubljana, 
+Slovenia, I determined the suitability of several fluorescent probes for long-term live-cell imaging.
 
 {% include person-projects.html %}
 {% include publication-list.html %}
