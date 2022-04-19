@@ -3,7 +3,7 @@ title: "Matic Zupančič"
 title2: 
 collection: team
 header:
-  teaser: team_profile.png
+  teaser: team_MaticZupancic.jpg
 tags: student
 tagline: MSc student
 location: # "Room 109"
