@@ -3,7 +3,7 @@ title: "Urška Janžič"
 title2: 
 collection: team
 header:
-  teaser: team_profile.png
+  teaser: team_UrskaJanzic.jpg
 tags: student
 tagline: MSc student
 location: # "Room 109"
