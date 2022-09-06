@@ -4,7 +4,7 @@ title2: "Ana Kriselj"
 collection: team
 header:
   teaser: team_AnaKriselj.jpg
-tags: staff
+tags: former
 tagline: Lab manager
 location: # "Room 109"
 phone: # "+386 1 4773226"
