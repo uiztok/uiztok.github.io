@@ -27,6 +27,14 @@ Researchers
 </div>
 </div>
 
+Postdocs
+-----------
+<div class="grid">
+<div class="wrapper">
+{% for post in site.team %} {% if post.tags contains 'postdoc' %} {% include archive-single-proj.html type="grid" %} {% endif %} {% endfor %}
+</div>
+</div>
+
 PhD Students
 ------------
 <div class="grid">

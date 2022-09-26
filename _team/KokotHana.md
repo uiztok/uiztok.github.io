@@ -4,8 +4,8 @@ title2: "Hana Majaron"
 collection: team
 header:
   teaser: team_HanaKokot.png
-tags: phd
-tagline: PhD student
+tags: postdoc
+tagline: Postdoc
 location: "Room 111"
 phone: "+386 1 477 3636"
 email: "hana.kokot@ijs.si"
