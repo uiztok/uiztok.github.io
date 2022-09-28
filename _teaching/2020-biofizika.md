@@ -8,10 +8,13 @@ venue: "Univerza v Ljubljani, Fakulteta za farmacijo, Laboratorijska biomedicina
 location: "Ljubljana, Slovenija"
 ---
 
-Predmet se izvaja v zimskem semestru 1. letnika študijskega programa *Laboratorijska biomedicina* (II. bolonjska stopnja) na [Fakulteti za farmacijo](http://www.ffa.uni-lj.si) Univerze v Ljubljani.  
+Predmet se izvaja v zimskem semestru 1. letnika magistrskega programa *Laboratorijska biomedicina* (II. bolonjska stopnja) na [*Fakulteti za farmacijo* Univerze v Ljubljani](http://www.ffa.uni-lj.si).  
 
+Nosilec: [doc. dr. Iztok Urbančič](/team/UrbancicIztok)  
+<!-- 
 Nosilec: [prof. dr. Janez Štrancar](/team/StrancarJanez)  
-Soizvajalec: [dr. Iztok Urbančič](/team/UrbancicIztok)
+Soizvajalec: [dr. Iztok Urbančič](/team/UrbancicIztok) 
+-->
 
 
 Predavanja
@@ -48,13 +51,10 @@ Predavanja
 
 Konzultacije
 ----
-Po predhodnem dogovoru - kontaktni podatki so na zgornjih povezavah.
+Po predhodnem dogovoru - kontaktni podatki so na zgornji povezavi.
+
 
 <!-- 
-Vaje
-======
-[Povzetek vaj](/files/teaching/biofizika/vaje_mol_biofiz)-->
-
 Izpiti
 ----
 
@@ -64,4 +64,5 @@ Izpiti
 | 1. | sreda, 2. 2. | 15.00-17.00 | Predavalnica na dvorišču (PD) | ponedeljek, 7. 2., dopoldne |
 | 2. | sreda, 16. 2. | 8.00-10.00 | Ilirija, Tržaška c. 32 | četrtek, 17. 2., popoldne - petek, 18. 2., cel dan |
 | 3. | sreda, 4. 5. | 8.00-10.00 | Predavalnica na dvorišču (PD) | petek, 6. 5. |  
-| 4. | sreda, 31. 8. | 8.30-12.00 | Soba za zagovore FFA (D13) | - |
+| 4. | sreda, 31. 8. | 8.30-12.00 | Soba za zagovore FFA (D13) | - | 
+-->
