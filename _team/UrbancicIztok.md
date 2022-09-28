@@ -27,7 +27,7 @@ redirect_from:
 {::options parse_block_html="true" /}
 
 
-*I am deeply fascinated by the incredible orchestration of life across vastly different spatiotemporal scales, which drives me in the quest to unravel the molecular mechanisms of cellular processes. I am convinced that the biophysical approach, together with advanced optical microscopy and spectroscopy techniques, can offer a powerful tool in solving this great puzzle.*
+*I am deeply fascinated by the incredible orchestration of life across vastly different spatiotemporal scales, which drives me in the quest to unravel the molecular mechanisms of cellular processes. I am convinced that the biophysical approach, together with advanced optical microscopy and spectroscopy techniques, can offer a powerful toolbox in solving this great puzzle.*
 
 
 ![Tcells](/images/proj_FMS.jpg)
@@ -47,8 +47,8 @@ Short CV
 
 | --------- | -------- |  
 | 2016–2019 | Postdoc in advanced microscopy and nanoimmunology, University of Oxford, UK |  
-| 2013–2009 | PhD in biophysics, University of Maribor, Slovenia |  
-| 2009–2004 | Diploma in physics, University of Ljubljana, Slovenia |  
+| 2009–2013 | PhD in biophysics, University of Maribor, Slovenia |  
+| 2004–2009 | Diploma in physics, University of Ljubljana, Slovenia |  
 
 <h3>Employment</h3>  
 
