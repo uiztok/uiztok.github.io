@@ -51,7 +51,7 @@ Predavanja
 
 Konzultacije
 ----
-Po predhodnem dogovoru - kontaktni podatki so na zgornji povezavi.
+Po predhodnem dogovoru z nosilcem; kontaktni podatki so na zgornji povezavi.
 
 
 <!-- 
