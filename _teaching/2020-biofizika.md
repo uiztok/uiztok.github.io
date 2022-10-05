@@ -19,8 +19,8 @@ Soizvajalec: [dr. Iztok Urbančič](/team/UrbancicIztok)
 
 Predavanja
 ----
-00 - [Uvod](/files/teaching/biofizika/2021/00_uvod.pdf)  
-01 - [Voda, gradniki](/files/teaching/biofizika/2021/01_voda-gradniki.pdf)  
+00 - [Uvod](/files/teaching/biofizika/2022/00_uvod.pdf)  
+01 - [Voda, gradniki](/files/teaching/biofizika/2022/01_voda-gradniki.pdf)  
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2021/02_interakcije.pdf)  
 03 - [Termodinamika](/files/teaching/biofizika/2021/03_termodinamika.pdf)  
 04 - [Metode za merjenje interakcij](/files/teaching/biofizika/2021/04_merjenje-interakcij.pdf)     
