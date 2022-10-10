@@ -1,25 +1,23 @@
 ---
-title: "Aleksandar Sebastijanović"
+title: "Darin Lah"
 title2: 
 collection: team
 header:
-  teaser: team_AleksandarSeb.jpg
-tags: former
+  teaser: team_DarinLah.jpg
+tags: phd
 tagline: PhD student
-location: # "Room 109"
-phone: # "+386 1 4773226"
-email: # "ime.priimek@ijs.si"
+location: "Room 111"
+phone: "+386 1 4773636"
+email: # "bostjan.kokot@ijs.si"
 twitter: # "StrancarLab"
-orcid: # "0000-0001-8032-132X"
+orcid: # "0000-0002-4645-6172"
 publons: # "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: # "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
-researchgate: # "Iztok-Urbancic"
+researchgate: # "Bostjan-Kokot"
 projects: "nanotox"
 ---
 
 {::options parse_block_html="true" /}
-
-About me ...
 
 
 {% include person-projects.html %}
