@@ -23,7 +23,7 @@ Predavanja
 01 - [Voda, gradniki](/files/teaching/biofizika/2022/01_voda-gradniki.pdf)  
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2022/02_interakcije.pdf)  
 03 - [Termodinamika](/files/teaching/biofizika/2022/03_termodinamika.pdf)  
-04 - [Metode za merjenje interakcij](/files/teaching/biofizika/2021/04_merjenje-interakcij.pdf)     
+04 - [Metode za merjenje interakcij](/files/teaching/biofizika/2022/04_merjenje-interakcij.pdf)     
 05 - [Samoorganizacija](/files/teaching/biofizika/2021/05_samoorganizacija.pdf)   
 06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_merjenje-struktur.pdf)   
 07 - [Površinski pojavi ](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf)  
