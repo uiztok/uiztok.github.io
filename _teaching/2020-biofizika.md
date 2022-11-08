@@ -24,14 +24,15 @@ Predavanja
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2022/02_interakcije.pdf)  
 03 - [Termodinamika](/files/teaching/biofizika/2022/03_termodinamika.pdf)  
 04 - [Metode za merjenje interakcij](/files/teaching/biofizika/2022/04_merjenje-interakcij.pdf)     
-05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2022/05_povrsine-samoorganizacija.pdf)    
-06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_merjenje-struktur.pdf)   
-<!-- 07 - [Površinski pojavi](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf)   -->
+05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2022/05_povrsine-samoorganizacija.pdf)  
+06 - [Opazovanje struktur](/files/teaching/biofizika/2022/06_opazovanje-struktur.pdf)      
+<!-- 06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_merjenje-struktur.pdf)   
+07 - [Površinski pojavi](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf)   
 07 - [Gibljivost delcev na molekularnem nivoju](/files/teaching/biofizika/2021/08_gibljivost.pdf)  
 08 - [Dinamika znotraj molekule, spektroskopije](/files/teaching/biofizika/2021/09_dinamika-znotraj-molekul.pdf)  
 09 - [Razdalje, mikroskopija](/files/teaching/biofizika/2021/10_razdalje_mikroskopija.pdf)  
 10 - [Membranski potencial](/files/teaching/biofizika/2021/11_membranski-potencial.pdf)  
-11 - [Dinamika molekularnih sistemov](/files/teaching/biofizika/2021/12_dinamika-molekularnih-sistemov.pdf)  
+11 - [Dinamika molekularnih sistemov](/files/teaching/biofizika/2021/12_dinamika-molekularnih-sistemov.pdf)   -->
 
 
 Konzultacije
