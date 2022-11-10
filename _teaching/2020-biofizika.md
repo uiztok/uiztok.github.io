@@ -40,15 +40,12 @@ Konzultacije
 Po predhodnem dogovoru z nosilcem; kontaktni podatki so na zgornji povezavi.
 
 
-<!-- 
+
 Izpiti
 ----
 
 | --- | --- | --- | --- | --- |
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
-| 1. | sreda, 2. 2. | 15.00-17.00 | Predavalnica na dvorišču (PD) | ponedeljek, 7. 2., dopoldne |
-| 2. | sreda, 16. 2. | 8.00-10.00 | Ilirija, Tržaška c. 32 | četrtek, 17. 2., popoldne - petek, 18. 2., cel dan |
-| 3. | sreda, 4. 5. | 8.00-10.00 | Predavalnica na dvorišču (PD) | petek, 6. 5. |  
-| 4. | sreda, 31. 8. | 8.30-12.00 | Soba za zagovore FFA (D13) | - | 
--->
+| 1. | četrtek, 2. 2. | 10.00-12.00 | Ilirija, Tržaška c. 32 | Bo sporočeno naknadno |
+| 2. | četrtek, 4. 5. | 15.00-17.00 | Ilirija, Tržaška c. 32 | Bo sporočeno naknadno |
