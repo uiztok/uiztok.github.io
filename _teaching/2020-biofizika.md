@@ -10,7 +10,7 @@ location: "Ljubljana, Slovenija"
 
 Predmet se izvaja v zimskem semestru 1. letnika magistrskega programa *Laboratorijska biomedicina* (II. bolonjska stopnja) na [*Fakulteti za farmacijo* Univerze v Ljubljani](http://www.ffa.uni-lj.si).  
 
-Nosilec: [doc. dr. Iztok Urbančič](/team/UrbancicIztok)  
+Izvajalec: [doc. dr. Iztok Urbančič](/team/UrbancicIztok)  
 <!-- 
 Nosilec: [prof. dr. Janez Štrancar](/team/StrancarJanez)  
 Soizvajalec: [dr. Iztok Urbančič](/team/UrbancicIztok) 
@@ -27,6 +27,7 @@ Predavanja
 05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2022/05_povrsine-samoorganizacija.pdf)  
 06 - [Opazovanje struktur](/files/teaching/biofizika/2022/06_opazovanje-struktur.pdf)  
 07 - [Merjenje struktur](/files/teaching/biofizika/2022/07_merjenje-struktur.pdf)   
+08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2022/08_gibanje.pdf)   
 <!-- 06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_merjenje-struktur.pdf)   
 07 - [Površinski pojavi](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf)   
 07 - [Gibljivost delcev na molekularnem nivoju](/files/teaching/biofizika/2021/08_gibljivost.pdf)  
@@ -39,7 +40,6 @@ Predavanja
 Konzultacije
 ----
 Po predhodnem dogovoru z nosilcem; kontaktni podatki so na zgornji povezavi.
-
 
 
 Izpiti
