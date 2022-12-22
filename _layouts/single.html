@@ -74,6 +74,9 @@ layout: default
           {% if page.email %}
             <br><a href="mailto:{{ page.email }}" style="text-decoration: none"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a>
           {% endif %}
+          {% if page.linkedin %}
+            <br><a href="https://www.linkedin.com/in/{{ page.linkedin }}" style="text-decoration: none"><i class="fa fa-fw fa-linkedin-square ai-fw"></i> LinkedIn </a>
+          {% endif %}
           {% if page.twitter %}
           <br><a href="https://twitter.com/{{ page.twitter }}" style="text-decoration: none"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
           {% endif %}
@@ -89,6 +92,7 @@ layout: default
           {% if page.googlescholar %}
             <br><a href="{{ page.googlescholar }}" style="text-decoration: none"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a>
           {% endif %}
+          
           </p>
           
         {% endif %}
