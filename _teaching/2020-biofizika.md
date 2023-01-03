@@ -28,14 +28,9 @@ Predavanja
 06 - [Opazovanje struktur](/files/teaching/biofizika/2022/06_opazovanje-struktur.pdf)  
 07 - [Merjenje struktur](/files/teaching/biofizika/2022/07_merjenje-struktur.pdf)   
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2022/08_gibanje.pdf)   
-09 - [Dinamika znotraj molekul](/files/teaching/biofizika/2022/09_dinamika-znotraj-molekul.pdf)
-<!-- 06 - [Metode strukturne biologije](/files/teaching/biofizika/2021/06_merjenje-struktur.pdf)   
-07 - [Površinski pojavi](/files/teaching/biofizika/2021/07_povrsinski-pojavi.pdf)   
-07 - [Gibljivost delcev na molekularnem nivoju](/files/teaching/biofizika/2021/08_gibljivost.pdf)  
-08 - [Dinamika znotraj molekule, spektroskopije](/files/teaching/biofizika/2021/09_dinamika-znotraj-molekul.pdf)  
-09 - [Razdalje, mikroskopija](/files/teaching/biofizika/2021/10_razdalje_mikroskopija.pdf)  
-10 - [Membranski potencial](/files/teaching/biofizika/2021/11_membranski-potencial.pdf)  
-11 - [Dinamika molekularnih sistemov](/files/teaching/biofizika/2021/12_dinamika-molekularnih-sistemov.pdf)   -->
+09 - [Dinamika znotraj molekul](/files/teaching/biofizika/2022/09_dinamika-znotraj-molekul.pdf)  
+10 - [Osmoza](/files/teaching/biofizika/2022/10_osmoza.pdf)  
+11 - [Membranski potencial](/files/teaching/biofizika/2022/11_membranski-potencial.pdf)  
 
 
 Konzultacije
