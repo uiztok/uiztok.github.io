@@ -14,4 +14,4 @@ The position requires meticulousness, supportive attitude, and solid English com
 
 Start ASAP. Contract duraton for 1 year, with a 3-month probation period and extension possibility. Arrangement: 20-30 hours/week - details to be defined with the successful candidate.
 
-If you think you are a good candidate, do [get in touch](/contact/) with your motivation letter and CV!
+If you think you are a good candidate, do [get in touch](/contact/) with a short motivation letter and a CV with a reference contact!
