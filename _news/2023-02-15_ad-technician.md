@@ -3,7 +3,7 @@ title: "We are looking for a lab technician!"
 date: 2023-02-15
 collection: news
 header:
-  teaser: 'team_profile-small.gif'
+  teaser: 'team_profile-small.png'
 ---
 
 Our team will be expanding with a diligent part-time lab technician! 
