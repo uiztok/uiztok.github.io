@@ -1,14 +1,14 @@
 ---
 title: "We are looking for a lab technician!"
-date: 2023-02-16
+date: 2023-02-15
 collection: news
 header:
-  teaser: 'team_profile.png'
+  teaser: 'team_profile-small.gif'
 ---
 
-Our team will be expanding with a diligent part-time technician! 
+Our team will be expanding with a diligent part-time lab technician! 
 
-The candidate is expected to hold a technical high school degree, or MSc, with experience in a chemical/biological laboratory. The responsibilites will include daily lab management, cell culturing, taking care of purchases, and occasional assistance with administrative tasks. 
+The candidate is expected to hold a technical high school degree, or BSc, relevant for work in a chemical/biological/biomedical laboratory. The responsibilites will include daily lab management, taking care of purchases, and occasional assistance with administrative tasks. 
 
 The position requires meticulousness, supportive attitude, and solid English communication skills. Previous lab work experience desired.
 
