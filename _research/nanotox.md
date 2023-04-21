@@ -16,12 +16,18 @@ A definitive conclusion about the dangers associated with human or animal exposu
 
 Using this knowledge, economic and straightforward tests will be developed to assess the ability of nanomaterial to produce the pathway-relevant key events. This approach will allow us to group materials based on their nanotoxicity and identify properties of concern for new materials, as well as reduce the need for expensive nanotoxicity testing in the future. 
 
+Pursuing this vision, we started a spin out company [Infinite Biotech](http://www.infinite-biotech.com), where we further develop alternative safety tests that can help the industry, regulators, and society. From 2023, we also coordinate a Horizon Europe project [nanoPASS](https://cordis.europa.eu/project/id/101092741) with 9 partners from 7 countries.
+
 
 Collaborators
 -------------
 * Our spin-out company [Infinite Biotech](http://www.infinite-biotech.com)
-* Partners of the EU H2020 project [SmartNanoTox](http://www.smartnanotox.eu/)
+* Partners of the Horizon Europe project [nanoPASS](https://cordis.europa.eu/project/id/101092741)
+![nanoPASS](/images/proj_nanoPASS-logo.png)
 
+Past projects
+-------------
+* EU H2020 project [SmartNanoTox](http://www.smartnanotox.eu/)
 ![SmartNanoTox](/images/proj_SmartNanoTox-logo.png)
 
 

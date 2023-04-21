@@ -19,8 +19,10 @@ projects: "nanotox"
 
 {::options parse_block_html="true" /}
 
-For my Master's degree of Physics on the Faculty of Natural sciences and Mathematics, University of Maribor, 
-Slovenia, I investigated the correlation between mitochondrial activation and assembly of bio-nanocomposites in lung epithelial cells exposed to nanomaterials.
+For my Master's degree of Physics on the Faculty of Natural sciences and Mathematics, University of Maribor, Slovenia, 
+I investigated the correlation between mitochondrial activation and assembly of bio-nanocomposites in lung epithelial cells exposed to nanomaterials.
+
+MSc thesis: "Methodology development to study the correlation between mitochondrial activation and assembly of bionano-composites in lung epithelial cells exposed to nanomaterials"
 
 
 {% include person-projects.html %}

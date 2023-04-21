@@ -4,8 +4,8 @@ title2:
 collection: team
 header:
   teaser: team_BostjanKokot.jpg
-tags: phd
-tagline: PhD student
+tags: postdoc
+tagline: Postdoc
 location: "Room 111"
 phone: "+386 1 4773636"
 email: "bostjan.kokot@ijs.si"
