@@ -3,7 +3,7 @@ title: "Maja Žežlina"
 title2: 
 collection: team
 header:
-  teaser: team_profile-small.png
+  teaser: team_AnaZezlina.jpg
 tags: student
 tagline: MSc student
 location: # "Room 109"
