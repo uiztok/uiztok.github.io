@@ -46,4 +46,4 @@ Izpiti
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
 | 1. | četrtek, 2. 2. | 10.00-12.00 | Ilirija, Tržaška c. 32 | pon. 13. 2. 12-18h, tor. 14. 2. 8-15h (FFA D13 soba za zagovore) |
-| 2. | četrtek, 4. 5. | 15.00-17.00 | Ilirija, Tržaška c. 32 | Bo sporočeno naknadno |
+| 2. | četrtek, 4. 5. | 15.00-17.00 | Ilirija, Tržaška c. 32 | pet. 12. 5. 8-17h (FFA P7 - lesena stavba) |
