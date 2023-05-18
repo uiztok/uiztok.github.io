@@ -1,6 +1,6 @@
 ---
 title: "We are looking for a lab associate!"
-date: 2023-04-25
+date: 2023-05-05
 collection: news
 header:
   teaser: 'team_profile-small.png'
