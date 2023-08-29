@@ -47,14 +47,15 @@ Short CV
 <h3>Education</h3>  
 
 | --------- | -------- |  
-| 2016–2019 | Postdoc in advanced microscopy and nanoimmunology, University of Oxford, UK |  
+| 2016–2019 | Postdoc in advanced microscopy and immunology, University of Oxford, UK |  
 | 2009–2013 | PhD in biophysics, University of Maribor, Slovenia |  
 | 2004–2009 | Diploma in physics, University of Ljubljana, Slovenia |  
 
 <h3>Employment</h3>  
 
 | --------- | -------- |  
-| 2009–present  | Researcher in Laboratory of Biophysics, Jožef Stefan Institute, Ljubljana, Slovenia |  
+| since 2023 | Faculty of Pharmacy, University of Ljubljana, Slovenia |  
+| since 2009 | Laboratory of Biophysics, Jožef Stefan Institute, Ljubljana, Slovenia |  
 | 2016–2019 | Marie Skłodowska-Curie postdoctoral fellow, Eggeling Lab, University of Oxford, UK |  
 
 

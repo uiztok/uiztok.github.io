@@ -1,11 +1,11 @@
 ---
-title: "Ana Vencelj"
+title: "Ervin Mustafić"
 title2: 
 collection: team
 header:
-  teaser: team_AnaVencelj.jpg
+  teaser: team_ErvinMustafic.jpg 
 tags: student
-tagline: MSc student
+tagline: BSc student
 location: # "Room 109"
 phone: # "+386 1 4773226"
 email: # "ime.priimek@ijs.si"
@@ -19,7 +19,7 @@ projects: "nanotox"
 
 {::options parse_block_html="true" /}
 
-Student at the MSc programme *Laboratory Biomedicine* (*Faculty of Pharmacy*, *University of Ljubljana*).
+Student at the BSc programme *Physics* (*Faculty of Mathematics and Physics*, *University of Ljubljana*).
 
-{% include person-projects.html %} 
+{% include person-projects.html %}
 {% include publication-list.html %}

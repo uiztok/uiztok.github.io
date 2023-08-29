@@ -1,9 +1,9 @@
 ---
-title: "Ana Vencelj"
+title: "Luka Šalamun"
 title2: 
 collection: team
 header:
-  teaser: team_AnaVencelj.jpg
+  teaser: team_profile.png 
 tags: student
 tagline: MSc student
 location: # "Room 109"
@@ -19,7 +19,7 @@ projects: "nanotox"
 
 {::options parse_block_html="true" /}
 
-Student at the MSc programme *Laboratory Biomedicine* (*Faculty of Pharmacy*, *University of Ljubljana*).
+Student at the MSc programme *Physics* (*Faculty of Mathematics and Physics*, *University of Ljubljana*).
 
-{% include person-projects.html %} 
+{% include person-projects.html %}
 {% include publication-list.html %}
