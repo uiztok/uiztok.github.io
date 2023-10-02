@@ -4,7 +4,7 @@ title2:
 collection: team
 header:
   teaser: team_DarinLah.jpg
-tags: phd
+tags: former
 tagline: PhD student
 location: "Room 111"
 phone: "+386 1 4773636"
