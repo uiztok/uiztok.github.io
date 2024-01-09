@@ -26,7 +26,7 @@ Predavanja
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2023/08_gibanje.pdf)  
 09 - [Ločevanje delcev](/files/teaching/biofizika/2023/09_locevanje.pdf)  
 10 - [Osmoza](/files/teaching/biofizika/2023/10_osmoza.pdf)  
-11 - [Membranski potencial](/files/teaching/biofizika/2022/11_membranski-potencial.pdf)  
+11 - [Membranski potencial](/files/teaching/biofizika/2023/11_membranski-potencial.pdf)  
 
 <!--
 12 - [Ponovitev osnov](/files/teaching/biofizika/2022/12_zakljucek.pdf)   -->
