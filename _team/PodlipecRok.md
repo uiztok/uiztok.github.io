@@ -4,7 +4,7 @@ title2:
 collection: team
 header:
   teaser: team_RokPodlipec.jpg
-tags: researcher
+tags: former # researcher
 tagline: Researcher
 location: # "Room 109"
 phone: # "+386 1 4773226"
