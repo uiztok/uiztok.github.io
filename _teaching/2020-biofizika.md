@@ -27,9 +27,7 @@ Predavanja
 09 - [Ločevanje delcev](/files/teaching/biofizika/2023/09_locevanje.pdf)  
 10 - [Osmoza](/files/teaching/biofizika/2023/10_osmoza.pdf)  
 11 - [Membranski potencial](/files/teaching/biofizika/2023/11_membranski-potencial.pdf)  
-
-<!--
-12 - [Ponovitev osnov](/files/teaching/biofizika/2022/12_zakljucek.pdf)   -->
+12 - [Ponovitev osnov](/files/teaching/biofizika/2023/12_zakljucek.pdf)   
 
 
 Konzultacije
@@ -43,9 +41,10 @@ Izpiti
 | --- | --- | --- | --- | --- |
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
-| 1. | sreda, 31. 1. | 13.00-15.00 | Ilirija, Tržaška c. 32 | * |
-| 2. | petek, 16. 2. | 13.00-15.00 | Ilirija, Tržaška c. 32 | * | 
+| 1. | sreda, 31. 1. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 6.-7. 2. ** |
+| 2. | petek, 16. 2. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 27./28. 2.** | 
 | 3. | torek, 7. 5. | 15.00* | * | * |
 | 4. | torek, 4. 6. | 13.00* | * | * |
 
 *Se dogovorimo naknadno.
+**Razpored uskladimo po pisnem roku s predstavnico letnika.
