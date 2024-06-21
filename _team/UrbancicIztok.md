@@ -15,7 +15,7 @@ publons: "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 researchgate: "Iztok-Urbancic"
 linkedin: "iztok-urban%C4%8Di%C4%8D-316135221"
-projects: "fms, nanotox, smartmicro"
+projects: "fms, nanotox, smartmicro, probes"
 redirect_from: 
   - /iztok
   - /iztok/

@@ -9,7 +9,7 @@ doi: 10.1002/1873-3468.14153
 type: 'Paper'
 header:
   teaser: '/images/pub_2021-FEBSLett_cover.png'
-project: 'FMS'
+project: 'fms'
 ---
 
 Abstract 
