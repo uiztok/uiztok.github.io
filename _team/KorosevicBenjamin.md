@@ -4,7 +4,7 @@ title2:
 collection: team
 header:
   teaser: team_BenjaminKorosevic.jpg
-tags: phd
+tags: former # phd
 tagline: PhD student
 location: "Room 111"
 phone: "+386 1 477 3636"
