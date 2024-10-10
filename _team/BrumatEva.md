@@ -1,10 +1,10 @@
 ---
-title: "Ana Vencelj"
+title: "Eva Brumat"
 title2: 
 collection: team
 header:
-  teaser: team_AnaVencelj.jpg
-tags: former # student 
+  teaser: team_profile.png 
+tags: student
 tagline: MSc student
 location: # "Room 109"
 phone: # "+386 1 4773226"
@@ -21,5 +21,5 @@ projects: "nanotox"
 
 Student at the MSc programme *Laboratory Biomedicine* (*Faculty of Pharmacy*, *University of Ljubljana*).
 
-{% include person-projects.html %} 
+{% include person-projects.html %}
 {% include publication-list.html %}
