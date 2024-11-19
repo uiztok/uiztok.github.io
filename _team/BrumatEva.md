@@ -3,7 +3,7 @@ title: "Eva Brumat"
 title2: 
 collection: team
 header:
-  teaser: team_profile.png 
+  teaser: team_EvaBrumat.jpg 
 tags: student
 tagline: MSc student
 location: # "Room 109"

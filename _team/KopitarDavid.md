@@ -14,12 +14,11 @@ orcid: # "0000-0001-8032-132X"
 publons: # "https://publons.com/researcher/1538071/iztok-urbancic/"
 googlescholar: # "https://scholar.google.com/citations?user=zyFnpCQAAAAJ"
 researchgate: # "Iztok-Urbancic"
-projects: ""
+projects: "microscopes"
 ---
 
 {::options parse_block_html="true" /}
 
 Student at the MSc programme *Physics* (*Faculty of Mathematics and Physics*, *University of Ljubljana*).
 
-{% include person-projects.html %}
-{% include publication-list.html %}
+{% include person-projects.html %} {% include publication-list.html %}
