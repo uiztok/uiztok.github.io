@@ -1,22 +1,23 @@
 ---
 title: "Molekularna biofizika"
 collection: teaching
-type: "MSc"
+type: "BSc"
 permalink: /teaching/biofizika
-date: 2020-10-01
+date: 2025-03-06
 venue: "Univerza v Ljubljani, Fakulteta za farmacijo, Laboratorijska biomedicina"
 location: "Ljubljana, Slovenija"
 ---
 
-Predmet se izvaja v zimskem semestru 1. letnika magistrskega programa *Laboratorijska biomedicina* (II. bolonjska stopnja) na [*Fakulteti za farmacijo* Univerze v Ljubljani](http://www.ffa.uni-lj.si).  
+Predmet se izvaja v letnem semestru 3. letnika programa *Laboratorijska biomedicina* (I. bolonjska stopnja) na [*Fakulteti za farmacijo* Univerze v Ljubljani](http://www.ffa.uni-lj.si).  
 
 Nosilec: [doc. dr. Iztok Urbančič](/team/UrbancicIztok)  
 
 
 Predavanja
 ----
-00 - [Uvod](/files/teaching/biofizika/2023/00_uvod.pdf)  
-01 - [Voda, gradniki](/files/teaching/biofizika/2023/01_voda-gradniki.pdf)  
+00 - [Uvod](/files/teaching/biofizika/2025/00_uvod.pdf)  
+01 - [Voda, gradniki](/files/teaching/biofizika/2025/01_voda-gradniki.pdf)  
+<!-- 
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2023/02_interakcije.pdf)  
 03 - [Termodinamika](/files/teaching/biofizika/2023/03_termodinamika.pdf)  
 04 - [Termodinamika vezave molekul](/files/teaching/biofizika/2023/04_termodinamika-vezave.pdf)     
@@ -27,7 +28,8 @@ Predavanja
 09 - [Ločevanje delcev](/files/teaching/biofizika/2023/09_locevanje.pdf)  
 10 - [Osmoza](/files/teaching/biofizika/2023/10_osmoza.pdf)  
 11 - [Membranski potencial](/files/teaching/biofizika/2023/11_membranski-potencial.pdf)  
-12 - [Ponovitev osnov](/files/teaching/biofizika/2023/12_zakljucek.pdf)   
+12 - [Ponovitev osnov](/files/teaching/biofizika/2023/12_zakljucek.pdf)    
+-->
 
 
 Konzultacije
@@ -35,7 +37,7 @@ Konzultacije
 Po predhodnem dogovoru.
 
 
-Izpiti
+<!-- Izpiti
 ----
 
 | --- | --- | --- | --- | --- |
@@ -47,4 +49,4 @@ Izpiti
 | 4. | torek, 4. 6. | 13.00* | * | * |
 
 *Se dogovorimo naknadno.
-**Razpored uskladimo po pisnem roku s predstavnico letnika.
+**Razpored uskladimo po pisnem roku s predstavnico letnika. -->
