@@ -18,9 +18,9 @@ Predavanja
 00 - [Uvod](/files/teaching/biofizika/2025/00_uvod.pdf)  
 01 - [Voda, gradniki](/files/teaching/biofizika/2025/01_voda-gradniki.pdf)  
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2025/02_interakcije.pdf)  
-03 - [Termodinamika](/files/teaching/biofizika/2025/03_termodinamika.pdf)
+03 - [Termodinamika](/files/teaching/biofizika/2025/03_termodinamika.pdf)  
+04 - [Termodinamika vezave molekul, Osmoza](/files/teaching/biofizika/2025/04_termodinamika-vezave_osmoza.pdf)  
 <!-- 
-03 - [Termodinamika](/files/teaching/biofizika/2023/03_termodinamika.pdf)  
 04 - [Termodinamika vezave molekul](/files/teaching/biofizika/2023/04_termodinamika-vezave.pdf)     
 05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2023/05_povrsine-samoorganizacija.pdf)  
 06 - [Opazovanje struktur](/files/teaching/biofizika/2023/06_opazovanje-struktur.pdf)  
