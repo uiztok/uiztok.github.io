@@ -20,9 +20,8 @@ Predavanja
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2025/02_interakcije.pdf)  
 03 - [Termodinamika](/files/teaching/biofizika/2025/03_termodinamika.pdf)  
 04 - [Termodinamika vezave molekul, Osmoza](/files/teaching/biofizika/2025/04_termodinamika-vezave_osmoza.pdf)  
+05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2025/05_povrsine-samoorganizacija.pdf)  
 <!-- 
-04 - [Termodinamika vezave molekul](/files/teaching/biofizika/2023/04_termodinamika-vezave.pdf)     
-05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2023/05_povrsine-samoorganizacija.pdf)  
 06 - [Opazovanje struktur](/files/teaching/biofizika/2023/06_opazovanje-struktur.pdf)  
 07 - [Dinamika znotraj molekul](/files/teaching/biofizika/2023/07_dinamika-znotraj-molekul.pdf)  
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2023/08_gibanje.pdf)  
@@ -38,16 +37,16 @@ Konzultacije
 Po predhodnem dogovoru.
 
 
-<!-- Izpiti
+Izpiti
 ----
 
 | --- | --- | --- | --- | --- |
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
-| 1. | sreda, 31. 1. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 6.-7. 2. ** |
-| 2. | petek, 16. 2. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 27./28. 2.** | 
+| 1. | ponedeljek, 23. 6. | 8.30-10.30 | FFA P2 | teden po 30. 6. ** |
+<!-- | 2. | petek, 16. 2. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 27./28. 2.** | 
 | 3. | torek, 7. 5. | 15.00* | * | * |
-| 4. | torek, 4. 6. | 13.00* | * | * |
+| 4. | torek, 4. 6. | 13.00* | * | * |-->
 
 *Se dogovorimo naknadno.
-**Razpored uskladimo po pisnem roku s predstavnico letnika. -->
+**Razpored uskladimo po pisnem roku s predstavnico letnika. 
