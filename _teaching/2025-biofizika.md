@@ -21,8 +21,8 @@ Predavanja
 03 - [Termodinamika](/files/teaching/biofizika/2025/03_termodinamika.pdf)  
 04 - [Termodinamika vezave molekul, Osmoza](/files/teaching/biofizika/2025/04_termodinamika-vezave_osmoza.pdf)  
 05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2025/05_povrsine-samoorganizacija.pdf)  
+06 - [Opazovanje molekularnih struktur](/files/teaching/biofizika/2025/06_opazovanje-struktur.pdf) 
 <!-- 
-06 - [Opazovanje struktur](/files/teaching/biofizika/2023/06_opazovanje-struktur.pdf)  
 07 - [Dinamika znotraj molekul](/files/teaching/biofizika/2023/07_dinamika-znotraj-molekul.pdf)  
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2023/08_gibanje.pdf)  
 09 - [Ločevanje delcev](/files/teaching/biofizika/2023/09_locevanje.pdf)  
