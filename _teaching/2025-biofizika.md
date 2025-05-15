@@ -23,8 +23,9 @@ Predavanja
 05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2025/05_povrsine-samoorganizacija.pdf)  
 06 - [Opazovanje molekularnih struktur](/files/teaching/biofizika/2025/06_opazovanje-struktur.pdf) 
 07 - [Dinamika znotraj molekul](/files/teaching/biofizika/2025/07_dinamika-znotraj-molekul.pdf)  
+08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2025/08_gibanje.pdf)  
 <!-- 
-08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2023/08_gibanje.pdf)  
+
 09 - [Ločevanje delcev](/files/teaching/biofizika/2023/09_locevanje.pdf)  
 10 - [Osmoza](/files/teaching/biofizika/2023/10_osmoza.pdf)  
 11 - [Membranski potencial](/files/teaching/biofizika/2023/11_membranski-potencial.pdf)  
