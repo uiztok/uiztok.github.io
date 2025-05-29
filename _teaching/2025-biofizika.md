@@ -25,12 +25,8 @@ Predavanja
 07 - [Dinamika znotraj molekul](/files/teaching/biofizika/2025/07_dinamika-znotraj-molekul.pdf)  
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2025/08_gibanje.pdf)  
 09 - [Ločevanje delcev](/files/teaching/biofizika/2025/09_locevanje.pdf)  
-
-<!-- 
-10 - [Osmoza](/files/teaching/biofizika/2023/10_osmoza.pdf)  
-11 - [Membranski potencial](/files/teaching/biofizika/2023/11_membranski-potencial.pdf)  
-12 - [Ponovitev osnov](/files/teaching/biofizika/2023/12_zakljucek.pdf)    
--->
+10 - [Membranski potencial](/files/teaching/biofizika/2025/10_membranski-potencial.pdf)  
+11 - [Ponovitev osnov](/files/teaching/biofizika/2025/11_zakljucek.pdf)    
 
 
 Konzultacije
