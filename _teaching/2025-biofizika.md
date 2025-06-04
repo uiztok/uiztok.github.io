@@ -40,13 +40,15 @@ Izpiti
 | --- | --- | --- | --- | --- |
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
-| 1. | ponedeljek, 23. 6. | 8.30-10.30 | FFA P2 | predvidoma 1. 7. ** |
+| 1. | ponedeljek, 23. 6. | 8.30-10.30 | FFA P2 | torek, 24. 6., 13-18h* v D13 FFA |
 
 <!--
 | 2. | petek, 16. 2. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 27./28. 2.** |
 | 3. | torek, 7. 5. | 15.00* | * | * |
 | 4. | torek, 4. 6. | 13.00* | * | * |
--->
 
 *Se dogovorimo naknadno.
 **Razpored uskladimo po pisnem roku s predstavnico letnika. 
+-->
+
+*Po razporedu, usklajanem s predstavnico letnika.
