@@ -4,8 +4,8 @@ layout: archive
 permalink: /team/
 ---
 
-![Group photo](/images/team.jpg)
-From the latest retreat of the Lab and the spin-out company [Infinite](http://www.infinite-biotech.com/).
+![Group photo](/images/team_2025.jpeg)
+From the latest retreat of the lab and the spin-out company [Infinite](http://www.infinite-biotech.com/).
 
 
 Group Leader
