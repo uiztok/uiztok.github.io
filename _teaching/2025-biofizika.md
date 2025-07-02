@@ -41,6 +41,7 @@ Izpiti
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
 | 1. | ponedeljek, 23. 6. | 8.30-10.30 | FFA P2 | torek, 24. 6., 13-18h* v D13 FFA |
+| 2. | četrtek, 4. 9. | 8.00-10.30 | FFA D13 | izpiti bodo samo ustni* |
 
 <!--
 | 2. | petek, 16. 2. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 27./28. 2.** |
