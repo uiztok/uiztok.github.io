@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: team_ErvinMustafic.jpg 
 tags: student
-tagline: BSc student
+tagline: MSc student
 location: # "Room 109"
 phone: # "+386 1 4773226"
 email: # "ime.priimek@ijs.si"

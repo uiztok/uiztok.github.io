@@ -4,8 +4,8 @@ title2: "Iztok Urbancic"
 collection: team
 header:
   teaser: team_IztokUrbancic.jpg
-tags: researcher
-tagline: Researcher
+tags: PI
+tagline: Group Leader
 location: "Room 111"
 phone: "+386 1 4773193"
 email: "iztok.urbancic@ijs.si"

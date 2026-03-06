@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: team_TilenKoklic.jpg
 tags: researcher
-tagline: Researcher
+tagline: Senior Researcher
 location: # "Room 109"
 phone: # "+386 1 4773226"
 email: # "ime.priimek@ijs.si"

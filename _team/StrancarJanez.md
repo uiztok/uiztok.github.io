@@ -4,8 +4,8 @@ title2: "Janez Strancar"
 collection: team
 header:
   teaser: team_JanezStrancar.jpg
-tags: PI
-tagline: Group Leader
+tags: researcher
+tagline: Senior Researcher, Former Group Leader
 location: "Room 109"
 phone: "+386 1 4773226"
 email: "janez.strancar@ijs.si"
