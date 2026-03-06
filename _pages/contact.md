@@ -7,8 +7,8 @@ permalink: /contact/
 Get in touch
 ------------
 
-email: [janez.strancar@ijs.si](mailto:janez.strancar@ijs.si)  
-phone: +386 1 4773226
+email: [iztok.urbancic@ijs.si](mailto:iztok.urbancic@ijs.si)  
+phone: +386 1 4773193
 
 
 Address
