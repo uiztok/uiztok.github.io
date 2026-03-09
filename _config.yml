@@ -87,7 +87,7 @@ author:
   employer         : "Jožef Stefan Institute"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=janez+strancar"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "janez.strancar@ijs.si"
+  email            : "iztok.urbancic@ijs.si"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "StrancarLab"
+  twitter          : # "StrancarLab"
   vine             :
   weibo            :
   xing             :
