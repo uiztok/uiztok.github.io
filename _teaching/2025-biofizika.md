@@ -18,6 +18,7 @@ Predavanja
 00 - [Uvod](/files/teaching/biofizika/2026/00_uvod.pdf)  
 01 - [Voda, gradniki](/files/teaching/biofizika/2026/01_voda-gradniki.pdf)  
 02 - [Medmolekulske interakcije](/files/teaching/biofizika/2026/02_interakcije.pdf)  
+03 - [Termodinamika](/files/teaching/biofizika/2026/03_termodinamika.pdf)  
 <!--
 03 - [Termodinamika](/files/teaching/biofizika/2025/03_termodinamika.pdf)  
 04 - [Termodinamika vezave molekul, Osmoza](/files/teaching/biofizika/2025/04_termodinamika-vezave_osmoza.pdf)  
@@ -34,17 +35,20 @@ Konzultacije
 ----
 Po predhodnem dogovoru.
 
-<!--
+
 Izpiti
 ----
 
 | --- | --- | --- | --- | --- |
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
-| 1. | ponedeljek, 23. 6. | 8.30-10.30 | FFA P2 | torek, 24. 6., 13-18h* v D13 FFA |
-| 2. | četrtek, 4. 9. | 8.00-10.30 | FFA D13 | izpiti bodo samo ustni* |
+| 1. | petek, 5. 6. | * | * | ** |
+| 2. | torek, 23. 6. | * | * | ** |
 
+*Se dogovorimo naknadno.  
+**Razpored uskladimo po pisnem roku s predstavnico letnika.  
 
+<!--
 | 2. | petek, 16. 2. | 13.00-15.00 | Ilirija, Tržaška c. 32 | 27./28. 2.** |
 | 3. | torek, 7. 5. | 15.00* | * | * |
 | 4. | torek, 4. 6. | 13.00* | * | * |
