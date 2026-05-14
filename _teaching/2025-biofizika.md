@@ -24,6 +24,8 @@ Predavanja
 06 - [Opazovanje molekularnih struktur](/files/teaching/biofizika/2026/06_mikroskopija.pdf)  
 07 - [Dinamika znotraj molekul](/files/teaching/biofizika/2026/07_spektroskopije.pdf)  
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2026/08_gibanje.pdf)  
+09 - [Ločevanje delcev](/files/teaching/biofizika/2026/09_locevanje.pdf)  
+
 
 <!--
 03 - [Termodinamika](/files/teaching/biofizika/2025/03_termodinamika.pdf)  
