@@ -25,6 +25,7 @@ Predavanja
 07 - [Dinamika znotraj molekul](/files/teaching/biofizika/2026/07_spektroskopije.pdf)  
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2026/08_gibanje.pdf)  
 09 - [Ločevanje delcev](/files/teaching/biofizika/2026/09_locevanje.pdf)  
+10 - [Membranski potencial](/files/teaching/biofizika/2026/10_membranski-potencial.pdf)  
 
 
 <!--
