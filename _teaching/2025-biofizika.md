@@ -26,6 +26,7 @@ Predavanja
 08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2026/08_gibanje.pdf)  
 09 - [Ločevanje delcev](/files/teaching/biofizika/2026/09_locevanje.pdf)  
 10 - [Membranski potencial](/files/teaching/biofizika/2026/10_membranski-potencial.pdf)  
+11 - [Ponovitev osnov](/files/teaching/biofizika/2026/11_ponovitev.pdf)    
 
 
 <!--
@@ -51,7 +52,7 @@ Izpiti
 | --- | --- | --- | --- | --- |
 | Izpitni rok | Datum | Ura | Predavalnica | Termin ustnih zagovorov |
 | --- | --- | --- | --- | --- |
-| 1. | petek, 5. 6. | * | * | ** |
+| 1. | petek, 5. 6. | 13.00-15.00 | P7 | ** |
 | 2. | torek, 23. 6. | * | * | ** |
 
 *Se dogovorimo naknadno.  
