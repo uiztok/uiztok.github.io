@@ -29,18 +29,6 @@ Predavanja
 11 - [Ponovitev osnov](/files/teaching/biofizika/2026/11_ponovitev.pdf)    
 
 
-<!--
-03 - [Termodinamika](/files/teaching/biofizika/2025/03_termodinamika.pdf)  
-04 - [Termodinamika vezave molekul, Osmoza](/files/teaching/biofizika/2025/04_termodinamika-vezave_osmoza.pdf)  
-05 - [Površinski pojavi, samoorganizacija](/files/teaching/biofizika/2025/05_povrsine-samoorganizacija.pdf)  
-06 - [Opazovanje molekularnih struktur](/files/teaching/biofizika/2025/06_opazovanje-struktur.pdf)  
-07 - [Dinamika znotraj molekul](/files/teaching/biofizika/2025/07_dinamika-znotraj-molekul.pdf)  
-08 - [Gibanje delcev in molekul](/files/teaching/biofizika/2025/08_gibanje.pdf)  
-09 - [Ločevanje delcev](/files/teaching/biofizika/2025/09_locevanje.pdf)  
-10 - [Membranski potencial](/files/teaching/biofizika/2025/10_membranski-potencial.pdf)  
-11 - [Ponovitev osnov](/files/teaching/biofizika/2025/11_zakljucek.pdf)    
--->
-
 Konzultacije
 ----
 Po predhodnem dogovoru.
